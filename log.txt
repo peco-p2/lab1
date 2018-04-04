@@ -1,0 +1,11 @@
+commit 4cf6412d12ffb9a77f91d681e11c86a6c08d392e (HEAD -> logging, origin/master, master)
+Author: unknown <petar.petrov@students.finki.ukim.mk>
+Date:   Wed Apr 4 18:48:35 2018 +0200
+
+    modify l1.txt
+
+commit b374d29693cf0672b5b3f0a3af632a9bdbcfbc5a
+Author: unknown <petar.petrov@students.finki.ukim.mk>
+Date:   Wed Apr 4 18:45:36 2018 +0200
+
+    Initial commit
